@@ -11,9 +11,7 @@ public class Main {
         zoo1.añadir(perro1);
         zoo1.añadir(tibu1);
 
-        for (Animal animal: animales){
-            animal.respirar();
-        }
+
 
     }
     }
